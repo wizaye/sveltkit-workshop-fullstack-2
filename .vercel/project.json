@@ -1,0 +1,15 @@
+{
+  "projectId": "prj_ni3nYXHnSBobDduWTJjpmWCNjieD",
+  "orgId": "team_Y8LvAkKgem48TkThAgLc6YYf",
+  "settings": {
+    "createdAt": 1721216810190,
+    "framework": "sveltekit-1",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "20.x"
+  }
+}
