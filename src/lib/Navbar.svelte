@@ -1,7 +1,5 @@
 <script>
   import { onMount } from 'svelte';
-
-  // Toggle the mobile menu
   function toggleMenu() {
     const menu = document.getElementById('navbar-default');
     menu.classList.toggle('hidden');
